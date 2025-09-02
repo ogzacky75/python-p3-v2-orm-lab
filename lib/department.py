@@ -1,4 +1,3 @@
-# lib/department.py
 from __init__ import CURSOR, CONN
 
 
